@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(215, 230, 243);
+    padding: 50px 70px;
+}
+table, th, td {
+    border: 2px solid rgb(73, 3, 42);
+    border-radius: 10px;
+}
+table {
+    border-collapse: collapse;
+    width: 800px;
+    height: 250px;
+}
+th {
+    background-color: rgb(231, 147, 147);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+    width: 30%;
+    font-size: larger;
+    color: rgb(48, 2, 27);
+}
+td {
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: Georgia;
+}
